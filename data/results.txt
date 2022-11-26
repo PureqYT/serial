@@ -1,0 +1,9 @@
+Time: 26/11/2022 @ 17:21:42
+
+Locating devices...Found 4 devices.
+
+Sensor 1 : 1.50�C
+Sensor 2 : 20.50�C
+Sensor 3 : 18.69�C
+Sensor 4 : 17.81�C
+
