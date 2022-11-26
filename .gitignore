@@ -1,4 +1,3 @@
 .env
-yarn.lock
-yarn-erroe.log
+yarn-error.log
 node-modules
