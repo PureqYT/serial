@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "Node16",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "target": "ES2017",
+        "noImplicitAny": true,
+        "strict": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "baseUrl": "./",
+        "paths": {
+            "*": [
+                "node_modules/*"
+            ],
+        },
+        "experimentalDecorators": true
+    },
+    "include": [
+        "src"
+ 	]
+}
